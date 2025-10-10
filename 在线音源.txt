@@ -1,0 +1,51 @@
+野草音源：
+https://tt.tenmeng.com/moonue/js/yecao.js
+
+iKun V106美阅（备）：
+https://tt.tenmeng.com/moonue/js/ikun-source0517.js
+
+https://api.v2.sukimon.me:19742/script?key=LXMusic_dmsowplaeq
+
+Huibq在线音源,支持最高品质
+https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+
+一、原始链接：
+SixYin音源原始链接：
+https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+
+Huibq音源原始链接1：
+https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js‍
+
+Huibq音源原始链接2：
+https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+
+Flower音源原始链接：
+https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+
+Grass音源原始链接：
+https://tt.tenmeng.com/moonue/js/yecao202412.js
+
+二、加速链接：
+SixYin音源加速链接：
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+
+Huibq音源加速链接：
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+
+Flower音源加速链接：
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+
+Grass音源加速链接：
+https://tt.tenmeng.com/moonue/js/yecao202412.js
+
+野草 v1
+https://file.ddot.top/files/66476d2a03756/%E9%87%8E%E8%8D%89v1.js
+
+野花 v1
+https://file.ddot.top/files/66476d236ed20/%E9%87%8E%E8%8A%B1v1.js
+
+小熊猫 v1.1.1
+https://file.ddot.top/files/66476d19f370f/%E5%B0%8F%E7%86%8A%E7%8C%ABv1.1.1.js
+
+六音音源 v1.1.0 六音
+https://file.ddot.top/files/66476d0be89e5/%E5%85%AD%E9%9F%B3%E9%9F%B3%E6%BA%90v1.2.1.js
